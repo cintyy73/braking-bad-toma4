@@ -1,0 +1,28 @@
+#tarjetas{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-content {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: darkgreen;
+        background-color: darkgray
+}
+
+.card-image .card-title {
+    font-size: 40px;
+    font-family: inherit;
+    font-weight: bold;
+
+
+}
+footer{
+    background-color: black;
+  
+    background-color: black;
+    color: chartreuse;
+   text-align: justify;
+
+}
+
